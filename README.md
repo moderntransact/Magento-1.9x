@@ -18,4 +18,4 @@
 
 # Releases
 
-* [Opencart 3.x release 1.0.0 - mt_opencart3x.1.0.0.zip](https://github.com/moderntransact/Opencart-3.x/releases/download/1.0.0/mt_opencart3x.1.0.0.zip)
+* [Magento 1.9x release 1.0.0 - mt_magento1.9x.1.0.0.zip](https://github.com/moderntransact/Magento-1.9x/releases/tag/1.0.0)
